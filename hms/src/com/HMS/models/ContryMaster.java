@@ -7,9 +7,7 @@ public class ContryMaster {
 	public String name;
 	public Status status;
 
-	public ContryMaster() {
-
-	}
+	
 
 	public ContryMaster(long id, String name, Status status) {
 		super();
